@@ -78,12 +78,13 @@ export const About = () => {
                     <div className="space-y-4 text-grey-300">
                     </div>
                         <div>
-                            <h4 className="font-semibold"> AI Reasearch Intern at ProCodeCG ( July- Aug 2023)</h4>
+                            <h4 className="font-semibold"> AI Reasearch Intern at ProCodeCG (2023)</h4>
                             <p> 
                                 Reasearch for calculate entry and exit vehicle on toll roads using severals framework likes TensorFlow. 
                                 make a compare between framewors that effective on two differnt time.
                             </p>
                         </div>
+                        <br/>
                         <div>
                             <h4 className="font-semibold"> Software Engginer ( March 2025 - present )</h4>
                             <p> 
